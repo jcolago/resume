@@ -8,7 +8,6 @@ body{
 }
 
 .info{
-  columns: 500px 3;
   border: 1px solid black;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -39,3 +38,4 @@ h2{margin-top: 0;
   font-family: Arial, Helvetica, sans-serif;
   border: 1px solid black;
 }
+
