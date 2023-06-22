@@ -1,0 +1,41 @@
+body{
+  background: #FBEEE6;
+}
+.header{
+  border: 5px solid #F1C40F;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.info{
+  columns: 500px 3;
+  border: 1px solid black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.summary{
+  color: white;
+  text-align: center;
+  background: #2471A3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.leader{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.work{
+  columns: 2;
+  text-wrap: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid black;
+ }
+h2{margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.other{
+  columns: 2;
+  column-rule: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid black;
+}
